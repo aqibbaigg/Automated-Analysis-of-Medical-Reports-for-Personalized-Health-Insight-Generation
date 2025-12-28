@@ -1,0 +1,2 @@
+# Automated-Analysis-of-Medical-Reports-for-Personalized-Health-Insight-Generation
+This project proposes an AI-agent–based system for automated analysis of lab reports and clinical text. Using domain-adapted language models, rule-ML pipelines, and clinical knowledge bases, it extracts key findings, interprets abnormalities, and generates concise, explainable, personalized health insights for patients and clinicians.
